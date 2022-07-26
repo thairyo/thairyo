@@ -14,7 +14,7 @@
         basicLanguage: "C++, Java, Python",
         mainLanguage:"Javascript, Typescript",
         frontend:"Reactjs, Boostrap, Material-ui...",
-        backend:"Nodejs, ExpressJs, NestJs",
+        backend:"Nodejs, ExpressJs, NextJs",
         database:"Mysql, Firebase",
         learning:"Docker, MongoDB ....",
       }
